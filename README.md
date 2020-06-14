@@ -8,7 +8,7 @@ A website that offers marketing services.
 *CSS
 
 ## Website
-https: //kemar117.github.io/run-buddy/
+https://kemar117.github.io/horiseon-agency/
 
 ## Contribution
 Made with 💖 by Kemar Gray 
